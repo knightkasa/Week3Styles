@@ -1,0 +1,28 @@
+#header {
+    font-size: 60px;
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    background-color: darkslateblue;
+}
+
+body {
+    background-color: rgb(233, 213, 233);
+}
+
+h2 {
+    font-size: 40px;
+    background-color: rgb(119, 109, 182);
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(156, 148, 211);
+}   
+h2.annouce {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(121, 112, 184);
+    font-size: 40px;
+}
+ li.dorm{
+    background-color: rgb(228, 110, 173);
+ }
+ 
